@@ -14,3 +14,5 @@ git push -u origin main
 git remote add origin https://github.com/brianstittsr/Flask_WickEnterprises.git
 git branch -M main
 git push -u origin main 
+
+Brian Stitt
