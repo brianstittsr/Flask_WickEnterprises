@@ -1,0 +1,3 @@
+Flask, render_template, request, redirect, url_for, 
+Flask-sqlalchemy
+Flask markdown
